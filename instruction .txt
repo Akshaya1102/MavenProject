@@ -1,0 +1,15 @@
+Run test from command line
+go to project location make sure that project directory should have pom.xl then hit with below command.
+mvn -Dtest=TestDemo test
+
+Clone from git hub
+------------------
+navigate to https://github.com/madegroot/Run-or-Exclude-one-test-with-Maven
+
+instructions:
+-----------
+create folder(ex-demoprojects) then open demoproject folder form commandline.
+now type below command and hit enter
+demoproject> git clone https://github.com/madegroot/Run-or-Exclude-one-test-with-Gradle.git
+you could see all files are downloading.
+once it is finished then follow the instructions in README.md(which you downloaded from github) or https://github.com/madegroot/Run-or-Exclude-one-test-with-Maven
